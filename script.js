@@ -45,7 +45,32 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Smooth Scrolling for anchor links
+    // Scroll Progress & Back to Top Logic
+window.addEventListener('scroll', () => {
+    const scrollBar = document.getElementById('scrollBar');
+    const backToTop = document.getElementById('backToTop');
+    
+    // Calculate scroll percentage
+    const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const scrolled = (winScroll / height) * 100;
+    
+    // Update progress bar
+    if (scrollBar) {
+        scrollBar.style.width = scrolled + "%";
+    }
+    
+    // Toggle Back to Top button
+    if (backToTop) {
+        if (winScroll > 300) {
+            backToTop.classList.add('active');
+        } else {
+            backToTop.classList.remove('active');
+        }
+    }
+});
+
+// Smooth Scrolling for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
             e.preventDefault();

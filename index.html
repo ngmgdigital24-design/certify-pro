@@ -10,7 +10,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
-<body class="dark-theme">
+<body id="top" class="dark-theme">
+    <!-- Scroll Progress Bar -->
+    <div class="scroll-progress-container">
+        <div class="scroll-progress-bar" id="scrollBar"></div>
+    </div>
+
     <div class="background-glow"></div>
     
     <!-- Navigation -->
@@ -511,11 +516,17 @@
         </div>
     </section>
 
-    <!-- WhatsApp Floating Button -->
-    <a href="https://wa.me/918247014778?text=Hello%2C%20I'm%20interested%20in%20your%20premium%20certification%20materials.%20Please%20share%20details.%20%F0%9F%98%8A" class="whatsapp-floating bounce-animation" target="_blank">
-        <i class="fab fa-whatsapp"></i>
-        <div class="tooltip">Expert Support - Active Now</div>
-    </a>
+    <!-- Floating Action Buttons -->
+    <div class="floating-container">
+        <a href="#top" class="back-to-top" id="backToTop">
+            <i class="fas fa-chevron-up"></i>
+        </a>
+        <a href="https://wa.me/918247014778?text=Hello%2C%20I'm%20interested%20in%20your%20premium%20certification%20materials.%20Please%20share%20details.%20%F0%9F%98%8A" class="whatsapp-floating bounce-animation" target="_blank">
+            <i class="fab fa-whatsapp"></i>
+            <div class="tooltip">Expert Support - Active Now</div>
+        </a>
+    </div>
+
 
     <!-- Footer -->
     <footer class="footer">
