@@ -1,0 +1,52 @@
+{
+  "plans": [
+    {
+      "id": "single-pass",
+      "name": "SINGLE PASS",
+      "price": 499,
+      "currency": "INR",
+      "popular": false,
+      "features": [
+        "One Professional Exam",
+        "Latest Q&A Updates",
+        "PDF + VCE Player",
+        "30-Day Support"
+      ],
+      "ctaText": "Contact now",
+      "ctaStyle": "outline"
+    },
+    {
+      "id": "expert-bundle",
+      "name": "EXPERT BUNDLE",
+      "price": 1499,
+      "currency": "INR",
+      "popular": true,
+      "popularTag": "MOST POPULAR",
+      "features": [
+        "Any 3 Professional Exams",
+        "Lifetime Updates",
+        "Case Study Analysis",
+        "24/7 Expert Help",
+        "Exam Pass Guarantee"
+      ],
+      "ctaText": "Contact now",
+      "ctaStyle": "primary"
+    },
+    {
+      "id": "unlimited-access",
+      "name": "UNLIMITED ACCESS",
+      "price": 5999,
+      "currency": "INR",
+      "popular": false,
+      "features": [
+        "500+ Certification Exams",
+        "Full Multi-Cloud Library",
+        "Labs & Simulations",
+        "Priority Expert Desk",
+        "Corporate Discounts"
+      ],
+      "ctaText": "Contact now",
+      "ctaStyle": "outline"
+    }
+  ]
+}

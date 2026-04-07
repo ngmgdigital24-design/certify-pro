@@ -1,0 +1,85 @@
+{
+  "site": {
+    "name": "Certify-Pro",
+    "tagline": "Premium IT Certification Questions & Answers",
+    "description": "Unlock your IT career with premium certification questions and answers. Microsoft, AWS, Cisco, and more at unbeatable prices. 100% Success guaranteed.",
+    "logo": "logo.png",
+    "year": 2026
+  },
+  "contact": {
+    "phone": "+91 82470 14778",
+    "phoneRaw": "+918247014778",
+    "email": "support@certifypro.in",
+    "whatsappMessage": "Hello, I'm interested in your premium certification materials. Please share details.",
+    "address": {
+      "line1": "Innovation Tower, 4th Floor",
+      "line2": "Hitech City, Hyderabad, 500081",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India"
+    }
+  },
+  "social": {
+    "linkedin": "#",
+    "twitter": "#",
+    "github": "#",
+    "discord": "#"
+  },
+  "stats": {
+    "passRate": "98%",
+    "support": "24/7",
+    "examsCount": "500+"
+  },
+  "brands": [
+    { "name": "Microsoft", "logo": "azure-logo.png" },
+    { "name": "AWS", "logo": "aws-logo.png" },
+    { "name": "Google Cloud", "logo": "google-logo.png" },
+    { "name": "Cisco", "logo": "cisco-logo.png" },
+    { "name": "Salesforce", "logo": "salesforce-logo.png" },
+    { "name": "CompTIA", "logo": "comptia-logo.png" }
+  ],
+  "ticker": [
+    "AB-100", "AB-900", "AB-730", "AB-731", "AZ-900", "AI-900", "AI-102",
+    "AWS", "AZURE", "Microsoft", "Salesforce", "Cloud", "PL-300", "SC-900",
+    "SC-100", "PL-400", "PL-500", "SC-200", "SC-300", "GIT HUB", "Snowflake",
+    "Snow Pro", "AGILE", "PMP"
+  ],
+  "features": [
+    {
+      "icon": "fa-sync",
+      "title": "Real-Time Sync",
+      "description": "Our database updates within 2 hours of any official exam changes."
+    },
+    {
+      "icon": "fa-user-tie",
+      "title": "Expert Verification",
+      "description": "Every certification meterials are verified subject matter experts."
+    },
+    {
+      "icon": "fa-infinity",
+      "title": "Lifetime Access",
+      "description": "Once you purchase, you get updates until you pass the exam."
+    }
+  ],
+  "navigation": [
+    { "label": "Home", "href": "#hero" },
+    { "label": "Exam Prep", "href": "#certifications" },
+    { "label": "Why Us", "href": "#features" },
+    { "label": "Pricing", "href": "#pricing" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "footerLinks": {
+    "platform": [
+      { "label": "Exams", "href": "#" },
+      { "label": "Vouchers", "href": "#" },
+      { "label": "Pricing", "href": "#" },
+      { "label": "VCE Player", "href": "#" }
+    ],
+    "company": [
+      { "label": "About Us", "href": "#" },
+      { "label": "Success Stories", "href": "#" },
+      { "label": "Blog", "href": "#" },
+      { "label": "Careers", "href": "#" }
+    ]
+  }
+}

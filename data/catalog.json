@@ -1,0 +1,121 @@
+{
+  "categories": [
+    { "id": "all", "name": "All" },
+    { "id": "cloud", "name": "Cloud" },
+    { "id": "dev", "name": "Developer" },
+    { "id": "security", "name": "Security" },
+    { "id": "business", "name": "Management" }
+  ],
+  "items": [
+    {
+      "id": "aws-saa",
+      "name": "AWS Certified Solutions Architect",
+      "category": "cloud"
+    },
+    {
+      "id": "az-900",
+      "name": "AZ-900: Azure Fundamentals",
+      "category": "cloud"
+    },
+    {
+      "id": "aws-dev",
+      "name": "AWS Certified Developer",
+      "category": "cloud"
+    },
+    {
+      "id": "gcp-pca",
+      "name": "Google Cloud Professional Architect",
+      "category": "cloud"
+    },
+    {
+      "id": "snow-pro-core",
+      "name": "Snow Pro Core Certification",
+      "category": "cloud"
+    },
+    {
+      "id": "snowflake-architect",
+      "name": "Snowflake Advanced Architect",
+      "category": "cloud"
+    },
+    {
+      "id": "ai-900",
+      "name": "AI-900: Azure AI Fundamentals",
+      "category": "dev"
+    },
+    {
+      "id": "ai-102",
+      "name": "AI-102: Azure AI Engineer",
+      "category": "dev"
+    },
+    {
+      "id": "pl-300",
+      "name": "PL-300: Microsoft Power BI Analyst",
+      "category": "dev"
+    },
+    {
+      "id": "pl-400",
+      "name": "PL-400: Microsoft Power Platform Dev",
+      "category": "dev"
+    },
+    {
+      "id": "pl-500",
+      "name": "PL-500: Power Automate RPA Dev",
+      "category": "dev"
+    },
+    {
+      "id": "github",
+      "name": "GIT HUB Actions / Developer",
+      "category": "dev"
+    },
+    {
+      "id": "sc-900",
+      "name": "SC-900: Security/Compliance Fund.",
+      "category": "security"
+    },
+    {
+      "id": "sc-100",
+      "name": "SC-100: Cybersecurity Architect",
+      "category": "security"
+    },
+    {
+      "id": "sc-200",
+      "name": "SC-200: Security Operations Analyst",
+      "category": "security"
+    },
+    {
+      "id": "sc-300",
+      "name": "SC-300: Identity & Access Admin",
+      "category": "security"
+    },
+    {
+      "id": "comptia-security",
+      "name": "CompTIA Security+ SY0-701",
+      "category": "security"
+    },
+    {
+      "id": "pmp",
+      "name": "PMP: Project Management Prof.",
+      "category": "business"
+    },
+    {
+      "id": "agile",
+      "name": "Agile Certified Practitioner",
+      "category": "business"
+    },
+    {
+      "id": "salesforce-admin",
+      "name": "Salesforce Administrator",
+      "category": "business"
+    },
+    {
+      "id": "ab-series-1",
+      "name": "AB-100, AB-900 Series",
+      "category": "business"
+    },
+    {
+      "id": "ab-series-2",
+      "name": "AB-730, AB-731 Specialist",
+      "category": "business"
+    }
+  ]
+}

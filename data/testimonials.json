@@ -1,0 +1,58 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Amrutha Krishna",
+      "role": "Cloud Engineer at Tech Corp",
+      "rating": 5,
+      "verified": true,
+      "quote": "The AZ-104 materials were exactly what I saw in the exam. I scored 940! Thank you Certify-Pro team.",
+      "certification": "AZ-104"
+    },
+    {
+      "id": 2,
+      "name": "Abhinav K",
+      "role": "Mainframe Developer",
+      "rating": 5,
+      "verified": true,
+      "quote": "I was struggling with AWS for months. These materials made everything crystal clear. Passed on 1st try!",
+      "certification": "AWS Solutions Architect"
+    },
+    {
+      "id": 3,
+      "name": "Michael Raj",
+      "role": "Senior Software Engineer",
+      "rating": 5,
+      "verified": true,
+      "quote": "The CCNA 200-301 lab simulations were a game changer. I felt so confident walking into the testing center. Highly recommended for network engineers.",
+      "certification": "CCNA 200-301"
+    },
+    {
+      "id": 4,
+      "name": "Priya Varma",
+      "role": "Cybersecurity Analyst",
+      "rating": 5,
+      "verified": true,
+      "quote": "CompTIA Security+ was my first big cert. Certify-Pro's QBanks were the only resource I used, and I passed with an 820. Outstanding quality!",
+      "certification": "CompTIA Security+"
+    },
+    {
+      "id": 5,
+      "name": "Ramesh K",
+      "role": "Salesforce Specialist",
+      "rating": 5,
+      "verified": true,
+      "quote": "I was nervous about the Salesforce Admin exam, but these materials were spot-on. The scenario-based questions prepared me perfectly for the actual test.",
+      "certification": "Salesforce Admin"
+    },
+    {
+      "id": 6,
+      "name": "Vaishav Sree",
+      "role": "DevOps Lead",
+      "rating": 5,
+      "verified": true,
+      "quote": "Passing Google Cloud Architect was my ticket to a major promotion. The case study analysis here is unmatched. You won't find better prep materials.",
+      "certification": "Google Cloud Architect"
+    }
+  ]
+}

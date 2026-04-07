@@ -1,0 +1,106 @@
+{
+  "certifications": [
+    {
+      "id": "aws-saa",
+      "provider": "AWS",
+      "name": "AWS Solutions Architect",
+      "examCode": "SAA-C03",
+      "price": 499,
+      "currency": "INR",
+      "logo": "aws-logo.png",
+      "theme": "aws-theme",
+      "features": [
+        "850+ Verified Questions",
+        "Latest 2026 Exam Set",
+        "Expert PDF + VCE"
+      ],
+      "category": "cloud",
+      "highlight": false
+    },
+    {
+      "id": "azure-admin",
+      "provider": "Microsoft",
+      "name": "Azure Administrator",
+      "examCode": "AZ-104",
+      "price": 499,
+      "currency": "INR",
+      "logo": "azure-logo.png",
+      "theme": "azure-theme",
+      "features": [
+        "720+ Actual Questions",
+        "Verified Explanations",
+        "99.4% Success Rate"
+      ],
+      "category": "cloud",
+      "highlight": true
+    },
+    {
+      "id": "gcp-architect",
+      "provider": "Google Cloud",
+      "name": "Professional Cloud Architect",
+      "examCode": "GCP-PCA",
+      "price": 499,
+      "currency": "INR",
+      "logo": "google-logo.png",
+      "theme": "google-theme",
+      "features": [
+        "Case Study Analysis",
+        "Expert Voice Support",
+        "Free Updates for 1 Year"
+      ],
+      "category": "cloud",
+      "highlight": false
+    },
+    {
+      "id": "cisco-ccna",
+      "provider": "Cisco",
+      "name": "Cisco CCNA (200-301)",
+      "examCode": "Implementing & Administering",
+      "price": 499,
+      "currency": "INR",
+      "logo": "cisco-logo.png",
+      "theme": "cisco-theme",
+      "features": [
+        "High Fidelity Lab Questions",
+        "1000+ Verified Q&A",
+        "Simulated Exam Engine"
+      ],
+      "category": "network",
+      "highlight": false
+    },
+    {
+      "id": "salesforce-admin",
+      "provider": "Salesforce",
+      "name": "SF Certified Administrator",
+      "examCode": "CRT-101",
+      "price": 499,
+      "currency": "INR",
+      "logo": "salesforce-logo.png",
+      "theme": "salesforce-theme",
+      "features": [
+        "Scenario Based Questions",
+        "100% Success Guaranteed",
+        "Instant Digital Delivery"
+      ],
+      "category": "dev",
+      "highlight": false
+    },
+    {
+      "id": "comptia-security",
+      "provider": "CompTIA",
+      "name": "CompTIA Security+",
+      "examCode": "SY0-701",
+      "price": 499,
+      "currency": "INR",
+      "logo": "comptia-logo.png",
+      "theme": "generic-theme",
+      "features": [
+        "Newest Exam Objectives",
+        "PBQ Simulations",
+        "Verified by CISSPs"
+      ],
+      "category": "security",
+      "highlight": false
+    }
+  ]
+}
