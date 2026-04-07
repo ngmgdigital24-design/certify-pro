@@ -43,6 +43,14 @@ document.addEventListener('DOMContentLoaded', () => {
             menuToggle.classList.toggle('active');
             navLinks.classList.toggle('active');
         });
+        
+        // Close menu on link click
+        document.querySelectorAll('.nav-links a').forEach(link => {
+            link.addEventListener('click', () => {
+                menuToggle.classList.remove('active');
+                navLinks.classList.remove('active');
+            });
+        });
     }
 
     // Scroll Progress & Back to Top Logic
