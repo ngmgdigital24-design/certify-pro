@@ -1,0 +1,24 @@
+{
+  "name": "certify-pro",
+  "version": "1.0.0",
+  "description": "Premium IT Certification Questions & Answers - Certify-Pro Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "certification",
+    "exam-prep",
+    "IT",
+    "AWS",
+    "Azure",
+    "Cisco",
+    "landing-page"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
